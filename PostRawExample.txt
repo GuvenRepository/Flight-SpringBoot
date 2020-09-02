@@ -1,0 +1,93 @@
+[
+    {
+        "from": "İstanbul",
+        "to": "İzmir",
+        "date": "2020-09-02",
+        "price": 100,
+        "duration": 60
+    },
+    {
+        "from": "Ankara",
+        "to": "İzmir",
+        "date": "2020-09-03",
+        "price": 150,
+        "duration": 67
+    },
+    {
+        "from": "Ankara",
+        "to": "İstanbul",
+        "date": "2020-09-02",
+        "price": 300,
+        "duration": 29
+    },
+    {
+        "from": "İzmir",
+        "to": "Ankara",
+        "date": "2020-09-02",
+        "price": 600,
+        "duration": 53
+    },
+    {
+        "from": "İstanbul",
+        "to": "İzmir",
+        "date": "2020-09-05",
+        "price": 200,
+        "duration": 80
+    },
+    {
+        "from": "Ankara",
+        "to": "İzmir",
+        "date": "2020-09-08",
+        "price": 50,
+        "duration": 35
+    },
+    {
+        "from": "İstanbul",
+        "to": "İzmir",
+        "date": "2020-09-10",
+        "price": 600,
+        "duration": 25
+    },
+    {
+        "from": "İzmir",
+        "to": "Ankara",
+        "date": "2020-09-07",
+        "price": 80,
+        "duration": 55
+    },
+    {
+        "from": "Ankara",
+        "to": "İstanbul",
+        "date": "2020-09-05",
+        "price": 70,
+        "duration": 65
+    },
+    {
+        "from": "Ankara",
+        "to": "İzmir",
+        "date": "2020-09-12",
+        "price": 550,
+        "duration": 85
+    },
+    {
+        "from": "İstanbul",
+        "to": "İzmir",
+        "date": "2020-09-20",
+        "price": 320,
+        "duration": 70
+    },
+    {
+        "from": "İzmir",
+        "to": "Ankara",
+        "date": "2020-09-02",
+        "price": 130,
+        "duration": 60
+    },
+    {
+        "from": "Ankara",
+        "to": "İstanbul",
+        "date": "2020-10-01",
+        "price": 440,
+        "duration": 50
+    }
+]
