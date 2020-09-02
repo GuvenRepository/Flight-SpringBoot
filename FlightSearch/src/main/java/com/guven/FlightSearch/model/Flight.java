@@ -7,6 +7,7 @@ import java.time.LocalDate;
 
 public class Flight {
     private final int ID;
+    
     private final String whereFrom;
     private final String whereTo;
 
